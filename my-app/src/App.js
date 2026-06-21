@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn 
+          Learn ankit pro
         </a>
       </header>
     </div>
